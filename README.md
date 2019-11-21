@@ -1,2 +1,2 @@
-# A2-10669445.cc
-c++ Assignment
+# Prime Number check.cc
+c++ code to check if a number is prime
